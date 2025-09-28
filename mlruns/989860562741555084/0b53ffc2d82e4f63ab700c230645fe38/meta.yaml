@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nvgra/OneDrive/Desktop/my-first-mlops-project/mlruns/989860562741555084/0b53ffc2d82e4f63ab700c230645fe38/artifacts
+end_time: 1759050703559
+entry_point_name: ''
+experiment_id: '989860562741555084'
+lifecycle_stage: active
+run_id: 0b53ffc2d82e4f63ab700c230645fe38
+run_name: LinearRegression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759050697917
+status: 3
+tags: []
+user_id: nvgra

@@ -37,3 +37,42 @@
   "notes": "Random Forest shows improvement over LinearRegression baseline"
 }
 ==================================================
+{
+  "timestamp": "2025-09-28 14:39:10",
+  "experiment": "baseline_linear_regression",
+  "parameters": {
+    "model": "LinearRegression",
+    "random_state": 42,
+    "test_size": 0.2,
+    "features_count": 13,
+    "dataset": "Boston.csv"
+  },
+  "metrics": {
+    "test_r2": 0.6687594935356307,
+    "train_r2": 0.7508856358979673,
+    "test_rmse": 4.928602182665346,
+    "train_rmse": 4.6520331848801675
+  },
+  "notes": "Initial baseline model - discovered significant variability with different random_state values"
+}
+==================================================
+{
+  "timestamp": "2025-09-28 14:39:10",
+  "experiment": "random_forest_vs_baseline",
+  "parameters": {
+    "model": "RandomForestRegressor",
+    "n_estimators": 100,
+    "random_state": 42,
+    "test_size": 0.2,
+    "features_count": 13
+  },
+  "metrics": {
+    "test_r2": 0.8922527442109116,
+    "train_r2": 0.9772267182453291,
+    "test_rmse": 2.8109631609391226,
+    "train_rmse": 1.4065534125923715,
+    "improvement_over_baseline": 0.22349325067528092
+  },
+  "notes": "Random Forest shows improvement over LinearRegression baseline"
+}
+==================================================

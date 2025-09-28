@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/nvgra/OneDrive/Desktop/my-first-mlops-project/mlruns/989860562741555084/models/m-41de9a92767a436fbcb6813944e2aa8c/artifacts
+creation_timestamp: 1759050698138
+experiment_id: '989860562741555084'
+last_updated_timestamp: 1759050703526
+model_id: m-41de9a92767a436fbcb6813944e2aa8c
+model_type: null
+name: linear_regression_model
+source_run_id: 0b53ffc2d82e4f63ab700c230645fe38
+status: 2
+status_message: null

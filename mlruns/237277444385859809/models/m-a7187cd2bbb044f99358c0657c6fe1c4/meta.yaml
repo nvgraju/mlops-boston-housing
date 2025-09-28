@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/nvgra/OneDrive/Desktop/my-first-mlops-project/mlruns/237277444385859809/models/m-a7187cd2bbb044f99358c0657c6fe1c4/artifacts
+creation_timestamp: 1759051324398
+experiment_id: '237277444385859809'
+last_updated_timestamp: 1759051329783
+model_id: m-a7187cd2bbb044f99358c0657c6fe1c4
+model_type: null
+name: rf_model
+source_run_id: df30548d6d5d4a5bb75cc6d429740581
+status: 2
+status_message: null

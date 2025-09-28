@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nvgra/OneDrive/Desktop/my-first-mlops-project/mlruns/989860562741555084/0a45e1b47e3948aead688d798784cf41/artifacts
+end_time: 1759050697912
+entry_point_name: ''
+experiment_id: '989860562741555084'
+lifecycle_stage: active
+run_id: 0a45e1b47e3948aead688d798784cf41
+run_name: RandomForest_vs_LinearReg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759050684392
+status: 3
+tags: []
+user_id: nvgra

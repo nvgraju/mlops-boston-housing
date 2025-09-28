@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nvgra/OneDrive/Desktop/my-first-mlops-project/mlruns/237277444385859809/72cf8630c7eb407c8f41bbff3fa8b24d/artifacts
+end_time: 1759051323499
+entry_point_name: ''
+experiment_id: '237277444385859809'
+lifecycle_stage: active
+run_id: 72cf8630c7eb407c8f41bbff3fa8b24d
+run_name: RF_tuning_2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759051318004
+status: 3
+tags: []
+user_id: nvgra

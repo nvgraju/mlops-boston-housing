@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/nvgra/OneDrive/Desktop/my-first-mlops-project/mlruns/237277444385859809/models/m-19bc29f3446342c186f9e35232c1b5b6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 3.4.0
+model_id: m-19bc29f3446342c186f9e35232c1b5b6
+model_size_bytes: 1155199
+model_uuid: m-19bc29f3446342c186f9e35232c1b5b6
+prompts: null
+run_id: 64aa35abbb8f45e399b248f45cf8f853
+utc_time_created: '2025-09-28 09:21:52.804523'
